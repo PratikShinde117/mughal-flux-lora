@@ -125,20 +125,13 @@ The model successfully learns:
 
 ---
 
-## 📦 Model Weights
-
-Model weights (.safetensors) are hosted externally:
-
-👉 [Add your Hugging Face / Drive link here]
-
----
 
 ## 🔧 Setup Instructions
 
 ### 1. Clone this repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PratikShinde117/Flux-training-script
 cd mughal-flux-lora
 ```
 
@@ -153,7 +146,7 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/ostris/ai-toolkit
 cd ai-toolkit
-pip install -r requirements.txt
+pip install -r requirements_base.txt
 ```
 
 ---
@@ -187,7 +180,7 @@ The `notebooks/flux_training_pipeline.ipynb` contains:
 
 ## 👤 Author
 
-Pratik
+Pratik Shinde
 
 ---
 
@@ -197,8 +190,3 @@ Pratik
 * Ostris AI Toolkit
 * Hugging Face Ecosystem
 
----
-
-## 📬 Contact
-
-For queries or collaboration, feel free to connect.
